@@ -30,5 +30,11 @@
     <ClCompile Include="test3_3_3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="unit3_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test3_4_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

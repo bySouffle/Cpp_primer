@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="test3_3_1.cpp" />
     <ClCompile Include="test3_3_3.cpp" />
+    <ClCompile Include="test3_4_1.cpp" />
     <ClCompile Include="unit3_3.cpp" />
     <ClCompile Include="unit3_3_2.cpp" />
     <ClCompile Include="unit3_3_3.cpp" />
+    <ClCompile Include="unit3_4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
