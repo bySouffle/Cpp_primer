@@ -142,6 +142,7 @@
     <ClCompile Include="test3_3_1.cpp" />
     <ClCompile Include="test3_3_3.cpp" />
     <ClCompile Include="test3_4_1.cpp" />
+    <ClCompile Include="test3_4_2.cpp" />
     <ClCompile Include="unit3_3.cpp" />
     <ClCompile Include="unit3_3_2.cpp" />
     <ClCompile Include="unit3_3_3.cpp" />
