@@ -48,5 +48,8 @@
     <ClCompile Include="unit3_5_3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="unit3_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
