@@ -1,21 +1,21 @@
-#include<iostream>
-using namespace std;
-
-int main()
-{
-
-	const int sz = 10;
-	int a[sz];
-	for (int i = 0; i < sz; ++i)
-	{
-		a[i] = i;
-	}
-
-	for (auto val : a)
-	{
-		cout << val << " ";
-
-	}
-	return 0;
-
-}
+//#include<iostream>
+//using namespace std;
+//
+//int main()
+//{
+//
+//	const int sz = 10;
+//	int a[sz];
+//	for (int i = 0; i < sz; ++i)
+//	{
+//		a[i] = i;
+//	}
+//
+//	for (auto val : a)
+//	{
+//		cout << val << " ";
+//
+//	}
+//	return 0;
+//
+//}

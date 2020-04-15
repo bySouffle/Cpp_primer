@@ -144,11 +144,15 @@
     <ClCompile Include="test3_4_1.cpp" />
     <ClCompile Include="test3_4_2.cpp" />
     <ClCompile Include="test3_5_2.cpp" />
+    <ClCompile Include="test3_5_4.cpp" />
+    <ClCompile Include="test_3_5_5.cpp" />
     <ClCompile Include="unit3_3.cpp" />
     <ClCompile Include="unit3_3_2.cpp" />
     <ClCompile Include="unit3_3_3.cpp" />
     <ClCompile Include="unit3_4.cpp" />
     <ClCompile Include="unit3_4_2.cpp" />
+    <ClCompile Include="unit3_5_3.cpp" />
+    <ClCompile Include="unit3_5_5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
